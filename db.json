@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "cypress",
+      "image": "https://images.app.goo.gl/ntgGYEHA8rWHZL4U7",
+      "price": 29,
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 9
     }
   ]
 }

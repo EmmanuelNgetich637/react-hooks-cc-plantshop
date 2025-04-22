@@ -4,7 +4,7 @@ import PlantPage from "./PlantPage";
 
 function App() {
   return (
-    <div className="app">
+    <div className="app" style={{ backgroundColor: 'white' }}>
       <Header />
       <PlantPage />
     </div>
